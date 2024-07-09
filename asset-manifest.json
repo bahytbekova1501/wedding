@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.858ba791.css",
-    "main.js": "/wedding/static/js/main.d416d501.js",
+    "main.css": "/wedding/static/css/main.1f24d75d.css",
+    "main.js": "/wedding/static/js/main.bde17279.js",
     "static/media/new.mp3": "/wedding/static/media/new.a418a18201ff8a1bc433.mp3",
     "static/media/золото.png": "/wedding/static/media/золото.6511f975e69df0b20e29.png",
     "static/media/серебро3.png": "/wedding/static/media/серебро3.9202a9c520ce99977d1b.png",
     "static/media/свадьба2.jpg": "/wedding/static/media/свадьба2.8069aa6595b400503b3d.jpg",
     "static/media/ofont.ru_Lastochka.ttf": "/wedding/static/media/ofont.ru_Lastochka.55feea1319d1d8f6db43.ttf",
-    "static/media/руки.jfif": "/wedding/static/media/руки.293010798e7e23b12d34.jfif",
     "static/media/party.jfif": "/wedding/static/media/party.be33011b47dc2330411b.jfif",
+    "static/media/руки2.jpg": "/wedding/static/media/руки2.b73ad72451cc453c7560.jpg",
     "static/media/heart1.svg": "/wedding/static/media/heart1.ed255a99a360c8695baddba8a657b8d3.svg",
     "index.html": "/wedding/index.html",
-    "main.858ba791.css.map": "/wedding/static/css/main.858ba791.css.map",
-    "main.d416d501.js.map": "/wedding/static/js/main.d416d501.js.map"
+    "main.1f24d75d.css.map": "/wedding/static/css/main.1f24d75d.css.map",
+    "main.bde17279.js.map": "/wedding/static/js/main.bde17279.js.map"
   },
   "entrypoints": [
-    "static/css/main.858ba791.css",
-    "static/js/main.d416d501.js"
+    "static/css/main.1f24d75d.css",
+    "static/js/main.bde17279.js"
   ]
 }
